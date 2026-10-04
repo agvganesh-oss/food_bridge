@@ -1,0 +1,6 @@
+{
+  "name": "FoodBridge",
+  "description": "A Web-Based Surplus Food Donation and Distribution System for SDG 2: Zero Hunger - B.Tech CSE DPTL Academic Prototype",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
